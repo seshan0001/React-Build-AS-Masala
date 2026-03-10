@@ -1,0 +1,89 @@
+.btn {
+    display: inline-block;
+    min-width: 140px;
+    max-width: max-content;
+    padding: 10px 12px;
+    border: 1.8px solid var(--merun);
+    background-color: var(--merun);
+    color: var(--lightWhite);
+    text-decoration: none;
+    border-radius: 24px;
+    text-align: center; 
+    transition: all .4s ease-in-out;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: .8px;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: var(--merun);
+    transition: all .4s ease-in-out;
+}
+
+.link {
+    font-size: 20px;
+    letter-spacing: .8px;
+    text-decoration-line: underline;
+    text-decoration-color: transparent;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2px;
+    transition: .4s ease-in-out;
+}
+
+.link:hover {
+    text-decoration-color: var(--lightWhite);
+    transition: .4s ease-in-out;
+}
+
+.link.merun:hover {
+    text-decoration-color: var(--merun);
+    transition: .4s ease-in-out;
+}
+
+.smallBtn {
+    padding: 12px 16px;
+    min-width: 120px;
+}
+
+.btnLightWhite {
+    background-color: var(--lightWhite);
+    border-color: var(--lightWhite);
+    color: var(--merun);
+}
+
+.btnLightWhite:hover {
+    color: var(--lightWhite);
+}
+
+
+@media (max-width: 1400px) {
+    .smallBtn {
+        padding: 10px 14px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .smallBtn {
+        min-width: 100px;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .btn,
+    .link {
+        font-size: 16px;
+    }
+
+    .smallBtn {
+        padding: 8px 12px;
+    }
+}
+
+@media (max-width: 750px) {
+    .smallBtn {
+        padding: 8px 10px;
+    }
+}

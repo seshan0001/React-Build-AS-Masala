@@ -1,0 +1,101 @@
+.text {
+    white-space: pre-line;
+}
+
+.text b {
+    font-size: 20px;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.nunito {
+    font-family: "Nunito";
+}
+
+.sansita {
+    font-family: "Sansita";
+}
+
+.fw700 {
+    font-weight: 700;
+}
+
+.fw600 {
+    font-weight: 600;
+}
+
+.fw500 {
+    font-weight: 500;
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.fs30 {
+    font-size: 30px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
+.fs20 {
+    font-size: 20px;
+}
+
+.fs18 {
+    font-size: 18px;
+}
+
+.fs16 {
+    font-size: 16px;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+@media (max-width: 1400px) {
+    .fs20 {
+        font-size: 18px;
+    }
+
+    .fs24 {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .fs20 {
+        font-size: 16px;
+    }
+
+    .fs24 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 750px) {
+    .footerAddress {
+        text-align: center;
+    }
+}
+
+@media (max-width: 600px) {
+    .fs16 {
+        font-size: 14px;
+    }
+}

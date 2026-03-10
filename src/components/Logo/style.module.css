@@ -1,0 +1,97 @@
+.logoWrapper {
+    position: relative;
+}
+
+.logo {
+    height: auto;
+    width: 70px;
+    min-height: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logoLink {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerLogo {
+    width: 120px;
+    padding: 6px 0;
+}
+
+.FooterLogo {
+    width: 210px;
+}
+
+@media (max-width: 1400px) {
+    .headerLogo {
+        width: 110px;
+    }
+
+    .FooterLogo {
+        width: 200px;
+    }
+}
+
+@media (max-width: 1200px) {
+
+    .logo {
+        width: 65px;
+    }
+
+    .headerLogo {
+        width: 100px;
+    }
+
+    .FooterLogo {
+        width: 190px;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .logo {
+        width: 60px;
+    }
+
+    .headerLogo {
+        width: 90px;
+    }
+
+    .FooterLogo {
+        width: 180px;
+    }
+}
+
+@media (max-width: 750px) {
+
+    .logo {
+        width: 55px;
+    }
+
+    .headerLogo {
+        width: 85px;
+    }
+
+    .FooterLogo {
+        width: 170px;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .logo {
+        width: 50px;
+    }
+
+    .headerLogo {
+        width: 55px;
+    }
+
+    .FooterLogo {
+        width: 160px;
+    }
+}

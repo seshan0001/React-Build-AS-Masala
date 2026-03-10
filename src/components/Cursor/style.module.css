@@ -1,0 +1,32 @@
+.canvas {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	pointer-events: none;
+	z-index: 999999;
+}
+
+.cursor {
+	position: fixed;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	outline: 1px solid #FF6F00;
+	outline-offset: 6px;
+	background: #FFD54F;
+	background: -webkit-radial-gradient(circle, #FFD54F, #FF6F00);
+	background: -moz-radial-gradient(circle, #FFD54F, #FF6F00);
+	background: radial-gradient(circle, #FFD54F, #FF6F00);
+	pointer-events: none;
+	z-index: 999999;
+	box-shadow: 0 0 18px #781d18;
+}
+
+@media (max-width: 750px) {
+	.cursor,
+	canvas {
+		display: none;
+	}
+}

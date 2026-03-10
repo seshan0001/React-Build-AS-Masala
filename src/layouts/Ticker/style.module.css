@@ -1,0 +1,21 @@
+.ticker {
+  width: 100%;
+  overflow: hidden;
+  padding: 8px 0;
+}
+
+.marqueeText {
+  display: inline-flex;
+  align-items: center;
+}
+
+.item {
+  margin-right: 30px;
+  white-space: nowrap;
+}
+
+@media (max-width:600px) {
+  .ticker {
+    padding: 6px 0;
+  }
+}

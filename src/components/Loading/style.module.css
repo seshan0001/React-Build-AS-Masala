@@ -1,0 +1,87 @@
+.loaderSection {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customLoder {
+    width: 100px;
+    height: 100px;
+    background-color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    border-radius: 50%;
+    border: 4px solid var(--merun);
+}
+
+.customLoderLine1,
+.customLoderLine2,
+.customLoderLine3,
+.customLoderLine4,
+.customLoderLine5 {
+    display: block;
+    width: 4px;
+    border-radius: 16px;
+    animation-name: beat;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+
+.customLoderLine1 {
+    animation-delay: 0s;
+    background-color: var(--merun);
+}
+
+.customLoderLine2 {
+    animation-delay: .4s;
+    background-color: var(--brown);
+}
+
+.customLoderLine3 {
+    animation-delay: .6s;
+    background-color: var(--merun);
+}
+
+.customLoderLine4 {
+    animation-delay: .8s;
+    background-color: var(--brown);
+}
+
+.customLoderLine5 {
+    animation-delay: 1s;
+    background-color: var(--merun);
+}
+
+@keyframes beat {
+    0% {
+        height: 80%;
+    }
+
+    50% {
+        height: 40%;
+    }
+
+    100% {
+        height: 80%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .customLoder {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 750px) {
+    .customLoder {
+        width: 60px;
+        height: 60px;
+    }
+}

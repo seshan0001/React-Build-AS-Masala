@@ -1,0 +1,7 @@
+.banner {
+    font-size: 0;
+}
+
+.banner .swiper-slide {
+    padding-top: 50%;
+}
