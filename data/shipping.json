@@ -1,0 +1,8 @@
+{
+  "parallaxBanner": {
+    "src": "/images/parallax2.jpg",
+    "alt": "page Banner Image",
+    "title": ["Shipping Details"],
+    "desc": "Returns Policy & Shipping Details"
+  }
+}

@@ -1,0 +1,260 @@
+{
+    "parallaxBanner": {
+        "src": "/images/parallax2.jpg",
+        "alt": "page Banner Image",
+        "title": [
+            "Our Products"
+        ],
+        "desc": "Discover freshly prepared homemade masalas made with 100% natural ingredients."
+    },
+    "products": {
+        "sambar": {
+            "id": 1,
+            "title": "Sambar Masala Powder \n ( சாம்பார் பொடி )",
+            "src": "/images/sambar_masala05.png",
+            "url": "sambar",
+            "soldInfo": "15 sold in last 24 hours 💥",
+            "slides": [
+                "/images/sambar_masala01.png",
+                "/images/sambar_masala02.png",
+                "/images/sambar_masala03.png",
+                "/images/sambar_masala04.png",
+                "/images/sambar_masala05.png"
+            ],
+            "price": [
+                {
+                    "id": 0,
+                    "weight": "100 g",
+                    "old": "99₹",
+                    "new": "79₹"
+                },
+                {
+                    "id": 1,
+                    "weight": "250 g",
+                    "old": "239₹",
+                    "new": "199₹"
+                },
+                {
+                    "id": 2,
+                    "weight": "500 g",
+                    "old": "479₹",
+                    "new": "399₹"
+                },
+                {
+                    "id": 3,
+                    "weight": "1 kg",
+                    "old": "959₹",
+                    "new": "799₹"
+                }
+            ],
+            "desc": "Authentic spices from Tamil Nadu, India",
+            "paragraphDesc": "<b>Authentic South Indian Flavors</b>:\n\nEnjoy the traditional taste of South Indian sambar with our specially prepared Sambar Masala Powder. Made with freshly ground spices, it helps you recreate that rich, aromatic, and comforting flavor found in authentic home-style sambar.\n\n<b>Preservative-Free Goodness</b>:\n\nOur sambar masala is made without any artificial preservatives, colors, or fillers. Every spoonful contains only pure, natural spices, giving you a clean and wholesome taste in every serving.\n\n<b>Homemade Taste You Can Trust</b>:\n\nThoughtfully crafted to resemble classic homemade spice blends, our Sambar Masala Powder brings out the real, nostalgic taste of South Indian cooking. It adds warmth, depth, and authenticity to your sambar—just like the way it’s made in home kitchens.\n\n<b>Perfect for Everyday Cooking</b>:\n\nWhether it’s a simple weekday meal or a special weekend lunch, our sambar masala helps you prepare delicious, flavorful sambar with ease, making your meals complete and satisfying.",
+            "ingredientsList": [
+                "Cumin",
+                "Fenugreek",
+                "Asafoetida",
+                "Cumin",
+                "Red Chilli (Dry)"
+            ],
+            "recipe": "Boil 200g of toor dal until soft. In another pan, heat edible oil and fry mustard seeds, chopped onions, tomatoes, green chillies and curry leaves until they turn golden. Add 150g of mixed vegetables and sauté for a minute. Pour in tamarind water, add salt to taste, and mix in 1–2 teaspoons of <b>A.S Sambar Masala</b>. Let it cook for a few minutes so the spices blend well with the vegetables.\n\nNow add the cooked dal and bring the sambar to a gentle boil for 10–15 minutes until everything is well combined and aromatic. Adjust water for your preferred thickness. Finish by adding fresh coriander leaves. Your hot and tasty sambar made with <b>A.S Sambar Masala</b> is ready to serve."
+        },
+        "chicken-65": {
+            "id": 2,
+            "title": "Chicken 65 Masala \n (சிக்கன் 65 மசாலா)",
+            "src": "images/chicken_masala05.png",
+            "url": "chicken-65",
+            "soldInfo": "15 sold in last 24 hours💥",
+            "slides": [
+                "/images/chicken_masala01.png",
+                "/images/chicken_masala02.png",
+                "/images/chicken_masala03.png",
+                "/images/chicken_masala04.png",
+                "/images/chicken_masala05.png"
+            ],
+            "price": [
+                {
+                    "id": 0,
+                    "weight": "100 g",
+                    "old": "119₹",
+                    "new": "99₹"
+                },
+                {
+                    "id": 1,
+                    "weight": "250 g",
+                    "old": "299₹",
+                    "new": "249₹"
+                },
+                {
+                    "id": 2,
+                    "weight": "500 g",
+                    "old": "599₹",
+                    "new": "499₹"
+                },
+                {
+                    "id": 3,
+                    "weight": "1 kg",
+                    "old": "1199₹",
+                    "new": "999₹"
+                }
+            ],
+            "desc": "Authentic spices from Tamil Nadu, India",
+            "paragraphDesc": "<b>Authentic South Indian Flavors:</b> \n\n Bring home the real taste of South Indian restaurant-style Chicken 65 with our specially made Chicken 65 Masala. Blended with freshly ground spices, it helps you recreate that spicy, crispy, and aromatic flavor that everyone loves.\n\n <b>Preservative-Free Goodness:</b> \n\n We prepare our masala without adding any artificial preservatives, colors, or fillers. Every spoon is filled with pure, natural spices so you can enjoy a clean and wholesome taste in each bite. \n\n <b>Homemade Taste You Can Trust:</b> \n\n Our Chicken 65 Masala is thoughtfully crafted to give you the warm, comforting flavor of traditional homemade spice mixes. It brings out an authentic taste that makes your chicken feel like it was cooked in a South Indian home kitchen. \n\n <b>Versatile and Flavorful:</b> \n\n While perfect for Chicken 65, this masala can also be used for Chicken Fry, Prawn 65, Paneer 65, Mushroom 65, or even as a spicy coating for your favorite snacks. One pack, many delicious possibilities.",
+            "ingredientsList": [
+                "Corn flour",
+                "Pepper",
+                "Salt",
+                "Cumin",
+                "Red chilli"
+            ],
+            "recipe": "Clean and cut 1 kg of chicken into medium-sized pieces. Mix the chicken with 100g of our A.S Chicken 65 Masala, add one egg, 2. add 25g ginger garlic paste.Let it marinate for 30 minutes.\n\nHeat edible oil in a pan. then fry the marinated chicken pieces on low flame until they turn crispy and golden brown. Hot and tasty Chicken 65 is now ready to serve"
+        },
+        "rasam": {
+            "id": 3,
+            "title": "Rasam Powder \n ( ரசம் பொடி )",
+            "url": "rasam",
+            "src": "images/rasam_masala05.png",
+            "soldInfo": "15 sold in last 24 hours 💥",
+            "slides": [
+                "/images/rasam_masala01.png",
+                "/images/rasam_masala02.png",
+                "/images/rasam_masala03.png",
+                "/images/rasam_masala04.png",
+                "/images/rasam_masala05.png"
+            ],
+            "price": [
+                {
+                    "id": 0,
+                    "weight": "100 g",
+                    "old": "150₹",
+                    "new": "125₹"
+                },
+                {
+                    "id": 1,
+                    "weight": "250 g",
+                    "old": "372₹",
+                    "new": "310₹"
+                },
+                {
+                    "id": 2,
+                    "weight": "500 g",
+                    "old": "700₹",
+                    "new": "625₹"
+                },
+                {
+                    "id": 3,
+                    "weight": "1 kg",
+                    "old": "1500₹",
+                    "new": "1250₹"
+                }
+            ],
+            "desc": "Authentic spices from Tamil Nadu, India",
+            "paragraphDesc": "<b>Authentic South Indian Flavors:</b> \n \n Experience the true taste of traditional South Indian rasam with our specially crafted Rasam Masala Powder. Made with freshly ground spices, it helps you create that spicy, tangy, and aromatic rasam loved in every South Indian home.\n\n<b>Preservative-Free Goodness:</b>\n\nOur rasam masala contains no artificial preservatives, colors, or fillers. Each spoonful is made only from pure, natural spices, ensuring a clean, fresh, and wholesome flavor in every sip.\n\n<b>Homemade Taste You Can Trust:</b>\n\nCarefully blended to resemble classic homemade rasam mixes, our Rasam Masala Powder brings out the warm, bold, and authentic taste of traditional South Indian cooking. It delivers the perfect balance of heat, tanginess, and aroma—just like rasam prepared in home kitchens.\n\n<b>Perfect for Everyday Meals:</b>\n\nWhether you want a simple, comforting bowl of rasam or a flavorful addition to your lunch, our rasam masala helps you make delicious, aromatic rasam effortlessly. A perfect choice for daily meals and soothing home-style comfort.",
+            "ingredientsList": [
+                "Pepper",
+                "Cumin",
+                "Asafoetida",
+                "Dried Curry Leaves"
+            ],
+            "recipe": "Boil a small amount of toor dal and keep it aside. In a pan, heat a little edible oil and fry mustard seeds, crushed garlic, chopped tomatoes, green chillies, and curry leaves until the aroma rises. Add tamarind water, salt to taste, and let it come to a light simmer. Now add 2 teaspoons of <b>A.S Rasam Masala</b>, mix well, and allow the flavors to blend with the tamarind and spices.\n\nNext, add the cooked dal water and stir gently. When the rasam starts to form bubbles around the edges, switch off the stove before it reaches a full boil to preserve the fresh, spicy aroma. Garnish with chopped coriander leaves. Your hot, tangy, and extra-spicy rasam made with <b>A.S Rasam Masala</b> is ready to serve."
+        },
+        "kulambu-masala": {
+            "id": 4,
+            "title": "Kulambu Powder \n ( குழம்பு பொடி )",
+            "url": "kulambu-masala",
+            "src": "images/kulambu_masala04.png",
+            "soldInfo": "15 sold in last 24 hours 💥",
+            "slides": [
+                "/images/kulambu_masala01.png",
+                "/images/kulambu_masala02.png",
+                "/images/kulambu_masala03.png",
+                "/images/kulambu_masala04.png",
+                "/images/kulambu_masala05.png"
+            ],
+            "price": [
+                {
+                    "id": 0,
+                    "weight": "100 g",
+                    "old": "49₹",
+                    "new": "39₹"
+                },
+                {
+                    "id": 1,
+                    "weight": "250 g",
+                    "old": "119₹",
+                    "new": "99₹"
+                },
+                {
+                    "id": 2,
+                    "weight": "500 g",
+                    "old": "239₹",
+                    "new": "199₹"
+                },
+                {
+                    "id": 3,
+                    "weight": "1 kg",
+                    "old": "479₹",
+                    "new": "399₹"
+                }
+            ],
+            "desc": "Authentic spices from Tamil Nadu, India",
+            "paragraphDesc": "<b>Authentic South Indian Flavors:</b>\n\nEnjoy the deep, traditional taste of South Indian kulambu with our specially prepared Kulambu Masala Powder. Made from freshly ground spices, it brings out the rich, bold, and aromatic flavors that define authentic home-style kulambu\n\n<b>Preservative-Free Goodness:</b>\n\nOur kulambu masala is made without any artificial preservatives, colors, or fillers. Every spoonful is filled with pure, natural spices, giving you a clean, wholesome, and flavorful cooking experience.\n\n<b>Homemade Taste You Can Trust:</b>\n\nThoughtfully blended to match the essence of classic homemade kulambu mixes, our Kulambu Masala Powder adds warmth, depth, and traditional taste to your dishes. It delivers that authentic South Indian flavor—just like kulambu prepared in home kitchens.\n\n<b>Perfect for Daily Cooking:</b>\n\nWhether you’re making kara kulambu, puli kulambu, or vegetable kulambu, our masala helps you prepare delicious, aromatic, and tangy kulambu with ease. A perfect addition to everyday meals for a satisfying and flavorful experience.",
+            "ingredientsList": [
+                "Corinder",
+                "Chilli",
+                "Urad Dal",
+                "Turmeric",
+                "Fenugreek"
+            ],
+            "recipe": "Heat edible oil in a pan and fry mustard seeds, fenugreek, chopped onions, garlic, and curry leaves until golden and aromatic. Add tomatoes and green chillies, cook until soft, then add your choice of vegetables or tamarind extract depending on the kulambu you are preparing. Add salt to taste and let the mixture cook for a few minutes until the raw smell of tamarind reduces. Now add just 1 teaspoon of <b>A.S Kulambu Masala</b>, as it is very spicy and strongly flavored, and stir well to blend with the gravy.\n\nAdd water as needed to reach your preferred consistency and allow the kulambu to simmer gently until the vegetables become tender and the oil separates. Do not add more masala, as the aroma and spice level of <b>A.S Kulambu Masala</b> is already rich and strong. Finish by adding a few curry leaves or a spoon of gingelly oil for enhanced taste. Your spicy, tangy, and authentic South Indian kulambu made with <b>A.S Kulambu Masala</b> is now ready to serve."
+        }
+    },
+    "sliderGallery": {
+        "slides": [
+            {
+                "id": "1",
+                "src": "/images/1_20251003_123243_0000.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "2",
+                "src": "/images/1_20251003_160614_0000.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "3",
+                "src": "/images/1_20251003_161428_0000.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "4",
+                "src": "/images/2_20251003_123243_0001.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "5",
+                "src": "/images/2_20251003_160614_0001.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "6",
+                "src": "/images/2_20251003_161428_0001.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "7",
+                "src": "/images/3_20251003_123243_0002.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "8",
+                "src": "/images/3_20251003_160614_0002.png",
+                "alt": "Slider Image"
+            },
+            {
+                "id": "9",
+                "src": "/images/3_20251003_161428_0002.png",
+                "alt": "Slider Image"
+            }
+        ]
+    }
+}

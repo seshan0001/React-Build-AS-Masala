@@ -1,0 +1,38 @@
+{
+  "logo": "/images/logo.png",
+  "fssaiLogo": "/images/fssai.jpeg",
+  "address": {
+    "title": "Address",
+    "content": "Babu Nagar, Anuppanadi,\nTeppakulam,Madurai, 625009"
+  },
+  "socialLinks": {
+    "title": "Follow Us On",
+    "items": [
+      { "id": 1, "platform": "instagram", "link": "https://instagram.com/as_masalas" },
+      { "id": 2, "platform": "youtube", "link": "https://instagram.com/as_masalas" },
+      { "id": 3, "platform": "whatsapp", "link": "https://wa.me/7200579714" },
+      { "id": 4, "platform": "x-twitter", "link": "https://instagram.com/as_masalas" }
+    ]
+  },
+  "linkColumns": [
+    {
+      "id": 1,
+      "title": "Quick Links",
+      "items": [
+        { "id": 1, "label": "Products", "url": "/products" },
+        { "id": 2, "label": "Shipping Details", "url": "/shipping-details" },
+        { "id": 3, "label": "Contact", "url": "/contact-us" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Contact Us",
+      "items": [
+        { "id": 1, "label": "asmasala25@gmail.com", "url": "mailto:asmasala25@gmail.com" },
+        { "id": 2, "label": "+91-8190932148", "url": "tel:+91-8190932148" },
+        { "id": 3, "label": "+91-7904478532", "url": "tel:+91-7904478532" }
+      ]
+    }
+  ],
+  "copyRight": "© 2026 A.S. Masala’s. All rights reserved."
+}

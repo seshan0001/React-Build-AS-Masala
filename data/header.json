@@ -1,0 +1,33 @@
+{
+	"logo": "/images/logo.png",
+	"navItems": [
+		{
+			"id": 1,
+			"label": "Products",
+			"link": "/products"
+		},
+		{
+			"id": 2,
+			"label": "Shipping Details",
+			"link": "/shipping-details"
+		},
+		{
+			"id": 3,
+			"label": "Contact",
+			"link": "/contact-us"
+		}
+	],
+	"ctaBtn": {
+		"label": "Order Now",
+		"link": "tel: +91-987654321",
+		"show": true
+	},
+	"marqueeText": [
+		"20% Offer On All Masal Products",
+		"Happy New Year",
+		"20% Offer On All Masal Products",
+		"Happy New Year",
+		"20% Offer On All Masal Products",
+		"Happy New Year"
+	]
+}

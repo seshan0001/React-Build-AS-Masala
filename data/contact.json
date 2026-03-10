@@ -1,0 +1,8 @@
+{
+  "parallaxBanner": {
+    "src": "/images/parallax2.jpg",
+    "alt": "page Banner Image",
+    "title": ["Contact Us"],
+    "desc": "Reach out anytime for product enquiries, orders or support."
+  }
+}
