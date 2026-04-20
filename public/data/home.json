@@ -4,12 +4,12 @@
         "imageSlides": [
             {
                 "id": "1",
-                "src": "/images/banner_three.png",
+                "src": "/images/banner_two.png",
                 "alt": "Banner Image"
             },
             {
                 "id": "2",
-                "src": "/images/banner_three.png",
+                "src": "/images/banner_two.png",
                 "alt": "Banner Image"
             }
         ]
