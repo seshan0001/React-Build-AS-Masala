@@ -9,9 +9,9 @@
     "title": "Follow Us On",
     "items": [
       { "id": 1, "platform": "instagram", "link": "https://instagram.com/as_masalas" },
-      { "id": 2, "platform": "youtube", "link": "https://instagram.com/as_masalas" },
+      { "id": 2, "platform": "youtube", "link": "https://www.youtube.com/@A.S.MASALA" },
       { "id": 3, "platform": "whatsapp", "link": "https://wa.me/7200579714" },
-      { "id": 4, "platform": "x-twitter", "link": "https://instagram.com/as_masalas" }
+      { "id": 4, "platform": "x-twitter", "link": "#" }
     ]
   },
   "linkColumns": [
